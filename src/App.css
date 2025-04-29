@@ -228,14 +228,6 @@ h2 {
   margin-bottom: 10px;
 }
 
-.portfolio-card h3 {
-  color: #FFD3AC;
-  font-size: 24px;
-  margin-bottom: 10px;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 600;
-}
-
 /* Portfolio */
 .portfolio-cards {
   display: flex;
@@ -262,6 +254,14 @@ h2 {
   width: 23px;
   height: 23px;
   cursor: pointer;
+}
+
+.portfolio-card h3 {
+  color: #FFD3AC;
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
 }
 
 /* Contact */
