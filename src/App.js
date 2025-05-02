@@ -174,7 +174,7 @@ function Portfolio() {
 
         {/* Footer */}
         <footer>
-          Lorena <span style={{ color: '#FFD3AC' }}>Darwiche</span> - 2025
+          Lorena <span style={{ color: '#FFD3AC' }}>Darwiche</span> - 2025 ©
         </footer>
       </div>
 
