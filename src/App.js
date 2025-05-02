@@ -67,7 +67,7 @@ function Portfolio() {
             </div>
             <div className="about-card">
               <h3>Present</h3>
-              <p>I'm a computer science graduate from Rutgers University - Newark, with a minor in Mathematics and internship experience at AWS.</p>
+              <p>I build web apps and interactive pages to sharpen my skills as a web developer. Since earning my Bachelor’s degree in Computer Science, I’ve been diving deeper into the world of web development. The more I learn, the more I realize how much more there is to explore—and that’s what keeps me going.</p>
             </div>
             <div className="about-card">
               <h3>Future</h3>
@@ -108,8 +108,8 @@ function Portfolio() {
           <h2>Skills</h2>
           <div className="skill-cards">
             {[
-              ["React.js", "Designed and built this portfolio website with component-based architecture."],
-              ["Python", "Applied Python extensively while solving algorithmic challenges on LeetCode."],
+              ["React.js", "Worked on multiple React projects, including this portfolio website, which was built using a modular, component-based architecture to ensure maintainability and scalability."],
+              ["Python", "Leveraged Python to build a GUI-based project and tackle complex algorithmic challenges, combining practical development with problem-solving skills."],
               ["Swift", "Created an app showcasing geological landmarks using SwiftUI."],
               ["MySQL", "Built databases for user systems during Software Engineering coursework."],
               ["PHP", "Developed full-stack systems with login/authentication features."],
