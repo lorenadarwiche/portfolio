@@ -53,7 +53,7 @@
 
 .resume-button {
   padding: 8px 14px;
-  background: #8585ff;
+  background: #fbfbff;
   border-radius: 3px;
   color: #0000d4;
   font-size: 16px;
@@ -133,7 +133,7 @@ section {
 }
 
 h2 {
-  color: #0000d4;
+  color: #2323FF;
   font-size: 48px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 800;
@@ -154,7 +154,7 @@ h2 {
 }
 
 .about-card h3 {
-  color: #2323FF;
+  color: #7171ff;
   font-size: 32px;
   font-family: 'Open Sans', sans-serif;
   margin-bottom: 10px;
@@ -176,17 +176,17 @@ h2 {
 }
 
 .experience-card {
-  background: #8585ff;
+  background: #7171ff;
   padding: 25px;
   border-radius: 10px;
   width: 385px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  color: #0000d4;
+  color: white;
   text-align: left;
 }
 
 .experience-card h3 {
-  color: #0000d4;
+  color: #fbfbff;
   font-size: 24px;
 }
 
@@ -214,16 +214,16 @@ h2 {
 }
 
 .skill-card {
-  background: #8585ff;
+  background: #7171ff;
   padding: 25px;
   border-radius: 10px;
   width: 240px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  color: #0000d4;
+  color: white;
 }
 
 .skill-card h3 {
-  color: #0000d4;
+  color: #fbfbff;
   font-size: 24px;
   margin-bottom: 10px;
 }
@@ -237,13 +237,13 @@ h2 {
 }
 
 .portfolio-card {
-  background: #8585ff;
+  background: #7171ff;
   padding: 25px;
   border-radius: 10px;
   width: 385px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   position: relative;
-  color: #0000d4;
+  color: white;
   text-align: left;
 }
 
@@ -257,7 +257,7 @@ h2 {
 }
 
 .portfolio-card h3 {
-  color: #0000d4;
+  color: #fbfbff;
   font-size: 24px;
   margin-bottom: 10px;
   font-family: 'Open Sans', sans-serif;
@@ -274,9 +274,9 @@ h2 {
 
 .contact-button {
   padding: 10px 20px;
-  background: #0000d4;
+  background: #fbfbff;
   border-radius: 5px;
-  color: #fbfbff;
+  color: #0000d4;
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
@@ -299,7 +299,6 @@ footer {
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
 }
-
 
 /* Mobile Responsive */
 @media (max-width: 768px) {
