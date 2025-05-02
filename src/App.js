@@ -67,7 +67,7 @@ function Portfolio() {
             </div>
             <div className="about-card">
               <h3>Present</h3>
-              <p>I build web apps and interactive pages to sharpen my skills as a web developer. Since earning my Bachelors degree in Computer Science, I have been diving deeper into the world of web development. The more I learn, the more I realize how much more there is to explore—and that’s what keeps me going.</p>
+              <p>I build web apps and interactive pages to sharpen my skills as a web developer. Since earning my Bachelors degree in Computer Science, I have been diving deeper into the world of web development.</p>
             </div>
             <div className="about-card">
               <h3>Future</h3>
