@@ -267,6 +267,7 @@ h2 {
 }
 
 /* Contact */
+/* Contact */
 .contact-buttons {
   display: flex;
   gap: 20px;
@@ -276,9 +277,9 @@ h2 {
 
 .contact-button {
   padding: 10px 20px;
-  background: #60A5FA;
+  background: #3F62B5; 
   border-radius: 5px;
-  color: #0A192F;
+  color: #E0F2FE; 
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
@@ -287,10 +288,12 @@ h2 {
 }
 
 .contact-button:hover {
-  background: #0A192F;
-  color: #E0F2FE;
+  background: #8585ff; /* Even lighter shade on hover */
+  color: #fbfbff;
   transform: scale(1.05);
 }
+
+
 
 /* Footer */
 footer {

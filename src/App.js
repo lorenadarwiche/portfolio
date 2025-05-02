@@ -41,7 +41,7 @@ function Portfolio() {
               </h1>
 
               <div className="hero-icons">
-                <a href="mailto:darwichelorena2@gmail.com" target="_blank" rel="noopener noreferrer">
+                <a href="mailto:darwichelorena2@gmail.com" target="_blank" rel="noreferrer">
                   <img src="/images/email-icon.png" alt="Email" className="icon" />
                 </a>
                 <a href="https://linkedin.com/in/lorenadarwiche" target="_blank" rel="noopener noreferrer">
@@ -52,7 +52,7 @@ function Portfolio() {
                 </a>
               </div>
 
-              <p className="hero-subtitle">I design and build things on the internet.</p>
+              <p className="hero-subtitle">A software engineer passionate about <br />creating intuitive, user-centered digital experiences.</p>
             </div>
           </div>
         </section>
