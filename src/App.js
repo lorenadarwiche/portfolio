@@ -108,8 +108,8 @@ function Portfolio() {
           <h2>Skills</h2>
           <div className="skill-cards">
             {[
-              ["React.js", "Worked on multiple React projects, including this portfolio website, which was built using a modular, component-based architecture to ensure maintainability and scalability."],
-              ["Python", "Leveraged Python to build a GUI-based project and tackle complex algorithmic challenges, combining practical development with problem-solving skills."],
+              ["React.js", "Built multiple React projects, including this portfolio, using a modular, component-based approach for scalability."],
+              ["Python", "Used Python to create a GUI project and solve algorithmic challenges, blending development with problem-solving."],
               ["Swift", "Created an app showcasing geological landmarks using SwiftUI."],
               ["MySQL", "Built databases for user systems during Software Engineering coursework."],
               ["PHP", "Developed full-stack systems with login/authentication features."],
