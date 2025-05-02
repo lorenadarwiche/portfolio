@@ -110,9 +110,9 @@ function Portfolio() {
             {[
               ["React.js", "Built multiple React projects, including this portfolio, using a modular, component-based approach for scalability."],
               ["Python", "Used Python to create a GUI project and solve algorithmic challenges, blending development with problem-solving."],
-              ["Swift", "Created an app showcasing geological landmarks using SwiftUI."],
-              ["MySQL", "Built databases for user systems during Software Engineering coursework."],
-              ["PHP", "Developed full-stack systems with login/authentication features."],
+              ["Swift", "Built a SwiftUI app that highlights geological landmarks through a clean, interactive UI."],
+              ["MySQL", "Designed and implemented user database systems during Software Engineering coursework."],
+              ["PHP", "Developed full-stack applications with robust login and authentication features."],
               ["Java", "Built a Trip Status app tracking travel status updates."],
               ["HTML/CSS", "Built fully responsive web projects applying modern design principles."],
               ["JavaScript", "Enhanced web interactivity in React-based and PHP applications."],
