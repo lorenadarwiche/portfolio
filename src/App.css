@@ -129,8 +129,7 @@
 /* Section titles */
 section {
   padding: 60px 20px;
-  text-align: center;
-  background-color: #E0F2FE; /* light blue */
+  text-align: center; /* light blue */
 
 }
 
