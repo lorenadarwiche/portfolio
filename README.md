@@ -20,7 +20,7 @@ Welcome to my personal portfolio website! This project showcases my work, techni
 
 ## 🌍 Live Site
 
-Check out the deployed version here: [https://portfolio-tan-seven-36.vercel.app/](https://portfolio-tan-seven-36.vercel.app/)
+Check out the deployed version here: [portfolio-lorenadarwiches-projects.vercel.app](portfolio-lorenadarwiches-projects.vercel.app)
 
 ## 📬 Contact
 
