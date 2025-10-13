@@ -656,6 +656,10 @@ footer {
 
 /* Mobile Responsive */
 @media (max-width: 768px) {
+  .page-section {
+    padding-top: 140px !important;
+  }
+
   .hero-content {
     flex-direction: column;
     text-align: center;
@@ -717,6 +721,10 @@ footer {
 }
 
 @media (max-width: 480px) {
+  .page-section {
+    padding-top: 130px !important;
+  }
+
   .hero-section {
     padding-top: 100px;
     padding-bottom: 60px;
