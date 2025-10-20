@@ -21,7 +21,7 @@ function Projects() {
           <div className="portfolio-card">
             <h3>Integrated Web System</h3>
             <p>Built a full-stack web app featuring user login and shopping cart functionality with PHP/MySQL.</p>
-            <a href="https://github.com/lorenadarwiche/IntegratedWebSystem" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/lorenadarwiche/Integrated-Web-System" target="_blank" rel="noopener noreferrer">
               <img src="/images/github-icon.svg" alt="GitHub" className="project-icon" />
             </a>
           </div>
