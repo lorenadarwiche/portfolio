@@ -16,7 +16,7 @@ const PasswordGate = ({ children }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const correctPassword = process.env.REACT_APP_PORTFOLIO_PASSWORD || 'portfolio2026';
+    const correctPassword = process.env.REACT_APP_PORTFOLIO_PASSWORD || '';
     
     if (password === correctPassword) {
       setIsAuthenticated(true);
