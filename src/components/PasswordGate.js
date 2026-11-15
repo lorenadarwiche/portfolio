@@ -7,7 +7,7 @@
     const [error, setError] = useState('');
 
    useEffect(() => {
-     Check if user is already authenticated in this session
+     //Check if user is already authenticated in this session
     const authenticated = sessionStorage.getItem('portfolio_authenticated');
     if (authenticated === 'true') {
       setIsAuthenticated(true);
