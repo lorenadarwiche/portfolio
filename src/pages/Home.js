@@ -43,15 +43,15 @@ function Home() {
         <div className="about-cards">
           <div className="about-card">
             <h3>Past</h3>
-            <p>I discovered my passion for programming at 14 years old during high school. It sparked a growing love for Computer Science over time.</p>
+            <p>Since earning my Bachelors degree in Computer Science, I've been diving deeper into the world of web development and sharpening my skills through Leetcode and online courses.</p>
           </div>
           <div className="about-card">
             <h3>Present</h3>
-            <p>I build web apps and interactive pages to sharpen my skills as a web developer. Since earning my Bachelors degree in Computer Science, I have been diving deeper into the world of web development.</p>
+            <p>I am a software developer with experience developing and enhancing financial technology applications, building strong solutions, and working with APL. I enjoy translating complex requirements into practical solutions while continuously expanding my technical skill set.</p>
           </div>
           <div className="about-card">
             <h3>Future</h3>
-            <p>I'm excited about the future of programming and eager to contribute meaningfully to the tech industry with my skills and passion.</p>
+            <p>I am passionate about building impactful software, exploring emerging technologies, and continuously growing as a developer. I look forward to taking on new challenges, strengthening my technical expertise, and contributing to innovative projects.</p>
           </div>
         </div>
       </section>
