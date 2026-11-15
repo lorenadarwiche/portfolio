@@ -11,6 +11,22 @@ function Experience() {
       <section id="experience" className="page-section">
         <h2>Experience</h2>
         <div className="experience-cards">
+      <div className="experience-card">
+            <h3>Software Engineer</h3>
+            <p className="company">InvestCloud</p>
+            <p className="date">October 2025 - Present </p>
+            <ul>
+    <li>Develop, maintain, and enhance financial technology applications supporting alternative investments and investment management workflows.</li>
+<li>Independently develop new application functionality and modify existing APL code to support evolving platform capabilities and client requirements.</li>
+<li>Develop pending delivery functionality within Unified Managed Accounts (UMAs), enabling users to designate and reserve funds from account sleeves for future stock trading activities.</li>
+<li>Consolidated two existing reporting functions into a unified solution, combining client-specific and general functionality to provide comprehensive advisor access reporting.</li>
+<li>Refined SQL queries and application component logic to retrieve, organize, and display accurate user and advisor information, improving reporting consistency and code readability.</li>
+<li>Independently designed and developed four additional reporting functions across four web applications, providing client administrators with visibility into user IDs, last login activity, account lock status, service permissions, and application-specific user groupings.</li>
+<li>Implemented application-specific reporting logic to accommodate different user roles, access permissions, and grouping structures across multiple platforms.</li>
+<li>Performed manual, unit, integration, and regression testing, along with debugging, to validate application functionality and ensure reliable integration with existing systems.</li>
+<li>Dedicated approximately six weeks to testing, refining, and integrating the consolidated reporting solution to ensure functionality, accuracy, and maintainability.</li>
+    </ul>
+          </div>
           <div className="experience-card">
             <h3>Software Development Intern</h3>
             <p className="company">Amazon Web Services</p>
