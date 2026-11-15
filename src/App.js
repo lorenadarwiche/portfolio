@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import { Analytics } from "@vercel/analytics/react";
-import PasswordGate from './components/PasswordGate';
+//import PasswordGate from './components/PasswordGate';
 import Home from './pages/Home';
 import Experience from './pages/Experience';
 import Skills from './pages/Skills';
