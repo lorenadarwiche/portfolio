@@ -5,6 +5,7 @@ import Footer from '../components/Footer';
 
 function Skills() {
   const skills = [
+    ["APL", "Develop and modify application logic, implement new functionality, and enhance existing components to support financial technology workflows."],
     ["React.js", "Built multiple React projects, including this portfolio, using a modular, component-based approach for scalability."],
     ["Python", "Used Python to create a GUI project and solve algorithmic challenges, blending development with problem-solving."],
     ["Swift", "Built a SwiftUI app that highlights geological landmarks in the Middle East through a clean, interactive UI."],
