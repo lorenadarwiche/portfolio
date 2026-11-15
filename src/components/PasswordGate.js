@@ -16,7 +16,7 @@
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const correctPassword = process.env.REACT_APP_PORTFOLIO_PASSWORD || '2026';
+    const correctPassword = '2026';
     
     if (password === correctPassword) {
       setIsAuthenticated(true);
